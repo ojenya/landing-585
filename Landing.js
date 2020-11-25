@@ -23,7 +23,7 @@ class Landing extends React.Component {
 
     return (
 
-        //Сюда вставь текст
+        //Сюда вставь код
     );
   }
 }
